@@ -1,23 +1,12 @@
------ I'm in touch with Blender developers to bring this tools to core Blender ------
-
->## Development no longer active
->
-> I started this project as a learning experience. I'm an animator wanting to learn how to code, 
-> and while fun it takes a lot of time.
->
-> Blender is transitioning to a more robust animation module, which is great but most likely will 
-> break AnimAide. Life is getting in the way of me continuing to develop the addon at this time,
-> so I ask if anybody would be willing to fork it and continue the journey for the Blender
-> community. I'm sure a real coder would make AnimAide even better.
->
-> There is a list of forks but most of them are of old code and don't know if they are maintained.
->
-> If anybody wants to do it (and gives me the info) I will link it here so people know
-> where to go.
->
-> Thanks.
->
-> Ares
+> Initial fork of Ares Deveaux's addon 
+## TODO
+- [ ] Fix AnimOffset Mask
+- [ ] Support for stepped playblast and playblast tools
+- [ ] More tools for frame interpolation and camera helpers
+- [ ] Preview options for frames between markers
+- [ ] More tools for stop motion animators
+- [ ] Animation Layers (Haha a bit ambitious)
+- [ ] Removal of  
 
 # Animaide
 
